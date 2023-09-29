@@ -79,3 +79,9 @@ li {
 form {
 	padding: 20px;
 }
+
+.aboutButtons {
+	height: 100px;
+	width: auto;
+	background-color: yellow;
+}

@@ -69,12 +69,7 @@ li {
     
 }
 
-.flex-container {
-	display: flex;
-	flex-flow: row wrap;
-	border: dotted black;
-	align-items: center;
-}
+
 
 form {
 	padding: 20px;
